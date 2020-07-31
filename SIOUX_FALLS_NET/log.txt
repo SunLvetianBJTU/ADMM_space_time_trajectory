@@ -1,0 +1,6 @@
+Traffic Assignment Problem solved by Frank Wolfe
+Trees rooted at origins. 
+
+Assignment iterations 40  
+Relative Gap target 0.001 
+Time Limit 7200 
